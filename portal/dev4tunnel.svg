@@ -1,0 +1,26 @@
+<svg viewBox="0 0 705.9 423" style="enable-background:new 0 0 705.9 423;" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="e399c19f-b68f-429d-b176-18c2117ff73c" x1="-1032.172" x2="-1059.213" y1="145.312" y2="65.426" gradientTransform="matrix(6.754231, 0, 0, -4.662257, 7281.052734, 721.717964)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8B8989"/>
+      <stop offset="1" stop-color="#BCBABA"/>
+    </linearGradient>
+    <linearGradient id="ac2a6fc2-ca48-4327-9a3c-d4dcc3256e15" x1="-1023.725" x2="-1029.98" y1="108.083" y2="105.968" gradientTransform="matrix(6.754231, 0, 0, -4.662257, 7281.052734, 721.717964)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity=".3"/>
+      <stop offset="0.071" stop-opacity=".2"/>
+      <stop offset="0.321" stop-opacity=".1"/>
+      <stop offset="0.623" stop-opacity=".05"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a7fee970-a784-4bb1-af8d-63d18e5f7db9" x1="-1027.165" x2="-997.482" y1="147.642" y2="68.561" gradientTransform="matrix(6.754231, 0, 0, -4.662257, 7281.052734, 721.717964)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F4F0F1"/>
+      <stop offset="1" stop-color="#DFD9DA"/>
+    </linearGradient>
+    <style type="text/css">
+	.st0{opacity:0.05;fill:#000000;}
+</style>
+  </defs>
+  <path fill="url(#e399c19f-b68f-429d-b176-18c2117ff73c)" d="M 245.428 15.594 L 421.295 15.594 L 238.719 388.976 C 234.875 396.846 224.188 402.147 212.161 402.147 L 75.295 402.147 C 56.137 402.147 42.635 389.168 48.762 376.639 L 218.857 28.757 C 222.693 20.887 233.392 15.587 245.428 15.587 Z" style=""/>
+  <path fill="#D4D2D3" d="M 500.989 266.037 L 222.105 266.037 C 212.168 266.023 205.943 273.449 210.906 279.391 C 211.542 280.158 212.353 280.855 213.287 281.462 L 392.488 396.914 C 397.704 400.283 404.585 402.147 411.717 402.147 L 569.629 402.147 Z" style=""/>
+  <path fill="url(#ac2a6fc2-ca48-4327-9a3c-d4dcc3256e15)" d="M 245.428 15.594 C 233.246 15.559 222.453 20.998 218.79 29.011 L 48.975 376.324 C 42.431 388.922 55.981 402.18 75.364 402.147 L 215.763 402.147 C 226.412 400.829 235.214 395.664 238.799 388.621 L 272.665 319.733 L 393.634 397.611 C 398.697 400.508 405.065 402.107 411.639 402.147 L 568.963 402.147 L 499.966 266.037 L 298.822 266.065 L 421.931 15.594 Z" style=""/>
+  <path fill="url(#a7fee970-a784-4bb1-af8d-63d18e5f7db9)" d="M 470.054 28.738 C 466.208 20.881 455.538 15.594 443.519 15.594 L 247.519 15.594 C 259.539 15.594 270.208 20.881 274.052 28.738 L 444.146 376.639 C 450.276 389.168 436.774 402.147 417.613 402.147 L 613.623 402.147 C 632.783 402.147 646.276 389.168 640.148 376.639 Z" style=""/>
+</svg>
