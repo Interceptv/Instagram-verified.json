@@ -1,4 +1,5 @@
-11{
+Security Virtual Oficial, [25/01/2022 18:25]
+{
   "dns": {
     "hosts": {
       "domain:googleapis.cn": "googleapis.com"
@@ -49,14 +50,14 @@
       "settings": {
         "vnext": [
           {
-            "address": "ipddnst.ddns.net",
+            "address": "scflix.net",
             "port": 443,
             "users": [
               {
                 "alterId": 0,
                 "encryption": "",
                 "flow": "",
-                "id": "1bd0cab0-33fe-4f79-b81f-a5c200d65bf5",
+                "id": "3a4c3962-38cc-4389-a418-04f1cb1b0552",
                 "level": 8,
                 "security": "auto"
               }
