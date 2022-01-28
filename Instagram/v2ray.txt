@@ -49,7 +49,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "ipddnst.ddns.net",
+            "address": "ipproxy19.agrafica.online",
             "port": 443,
             "users": [
               {
