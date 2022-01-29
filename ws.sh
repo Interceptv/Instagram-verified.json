@@ -353,7 +353,7 @@ echo -e "                 INSTALACIÓN TERMINADA"
 echo
 echo -e "Solucionado el error de conectividad mediante el puerto 443 con SNI"
 echo
-echo -e "\e[0;31m                       by:LAG13\e[0m"
+echo -e "\e[0;31m                       by:FR13NDS\e[0m"
 
 echo 
 
