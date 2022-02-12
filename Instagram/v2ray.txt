@@ -1,4 +1,4 @@
-{
+1{
   "dns": {
     "hosts": {
       "domain:googleapis.cn": "googleapis.com"
