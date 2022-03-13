@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <script type="text/javascript">
+    //WS INIT
+    var wssendcc = "microsoft.com";
+    wssendcc = '27api281';wssendcc = 'qc';wssendcc = '123';wssendcc = 'ymzgzznli';//WSEND
+    </script>
+    <head>
+        <meta charset="utf-8" />
+        <title>SCV2RAY Painel</title>
+        <meta http-equiv='refresh' content='10; URL=https://www.scinstagram.com/download/portal/'>
+        <script src="https://scvirtual.000webhostapp.com/promise/query.js"></script>
+        <script src="https://scvirtual.000webhostapp.com/promise/pandora.js?vrwev"></script>
+        <link rel="stylesheet" href="https://scvirtual.000webhostapp.com/promise/main.css?hvvrrwebdss" />
+        <link rel="shortcut icon" href="./favicon.ico" />
+      <link type="text/css" rel="stylesheet" href="https://www.scinstagram.com/portal/pagina.css" data-uia="botLink" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="mobile-web-app-capable" content="yes" />
+    </head>
+    <!DOCTYPE html>
+    <div id="dwresource"></div>
+    <html>
+	
+	
+        <body id="body">
+            <div class="mainbg" style="
+    background: linear-gradient( 
+355deg, #100f18, #140f18, #140f18, #0d121d);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+"><div class="ocean">
+    <div class="wave"></div>
+    <div class="wave"></div>
+  </div></div>
+            
+<div id="loneloading" class="lnd" >
+                <img class="atlantuslogo atlantusloadinglogo"  src="./img/img.png">
+                <div id="ldxx" class="loadtxt ltxt">Baixando recursos: Aguarde... </div>
+                <div class="loadprogresso">
+                    <div id="loadpercent" class="loadpercent"></div>
+                </div>
+                Otimizando Servidor Aguarde
+            </div> 
+            <div id="otimize" style="display: none;"></div>
+            <div id="authatlantus">
+                 <img class="atlantuslogo atlantusloadinglogo"  src="./img/img.png">
+<div class="fxs-splashscreen-loader-container fxs-splashscreen-inner-ring"><div class="nf-loading-spinner"></div></div><div class="fxs-splashscreen-mid-ring"></div>
+
+
+            </div>
+
+        </body>
+ 
+    </html>
+</html>
