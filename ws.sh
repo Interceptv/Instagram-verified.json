@@ -11,7 +11,7 @@ fun_bar () {
           ) > /dev/null 2>&1 &
           tput civis
 		  echo -e "\033[1;31m---------------------------------------------------\033[1;37m"
-          echo -ne "${col7}    ESPERE..\033[1;35m["
+          echo -ne "${col7}    AGUARDE..\033[1;35m["
           while true; do
           for((i=0; i<18; i++)); do
           echo -ne "\033[1;34m#"
@@ -22,7 +22,7 @@ fun_bar () {
          sleep 1s
          tput cuu1
          tput dl1
-         echo -ne "\033[1;37m    ESPERE..\033[1;35m["
+         echo -ne "\033[1;37m    AGUARDE..\033[1;35m["
          done
          echo -e "\033[1;35m]\033[1;37m -\033[1;32m INSTALADO !\033[1;37m"
          tput cnorm
@@ -58,7 +58,7 @@ rm -rf /root/stunnel.key
 fun_bar 'inst_ssl'
 echo -e "\033[1;33m                 CONFIGURANDO SSL.. "
 fun_bar 'inst_ssl'
-echo -e "\033[1;37m mini Banner (SSL + PAY) \033[1;36m"
+echo -e "\033[1;37m Mini Banner (SSL + PAY) \033[1;36m"
 echo -e "\033[1;37m Banner Exagerado  \033[1;36m"
 echo -e "\e[0;31m Suporta HTML\e[0m"
 read -p " :" msgbanner
