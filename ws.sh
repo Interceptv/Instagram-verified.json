@@ -34,9 +34,9 @@ clear&&clear
 echo -e "\033[1;31m———————————————————————————————————————————————————\033[1;37m"
 echo -e "\033[1;32m              PAYLOAD + SSL |by: SC Virtual "
 echo -e "\033[1;31m———————————————————————————————————————————————————\033[1;37m"
-echo -e "\033[1;36m              SCRIPT AUTOCONFIGURACION "
+echo -e "\033[1;36m              SCRIPT AUTOCONFIGURAÇÃO "
 echo -e "\033[1;31m———————————————————————————————————————————————————\033[1;37m"
-echo -e "\033[1;37mRequiere tener el puerto libre ,80 y el 443"
+echo -e "\033[1;37mNECESSITA DAS SEGUINTES PORTAS ABERTAS ,80 e 443"
 echo
 echo -e "\033[1;33m                 INSTALANDO SSL... "
 inst_ssl () {
@@ -58,9 +58,9 @@ rm -rf /root/stunnel.key
 fun_bar 'inst_ssl'
 echo -e "\033[1;33m                 CONFIGURANDO SSL.. "
 fun_bar 'inst_ssl'
-echo -e "\033[1;37m Mensaje en el mini Banner por defecto (SSL + Pay) \033[1;36m"
-echo -e "\033[1;37m No exagerar en el mini Banner  \033[1;36m"
-echo -e "\e[0;31m Soporta HTML\e[0m"
+echo -e "\033[1;37m mini Banner (SSL + PAY) \033[1;36m"
+echo -e "\033[1;37m Banner Exagerado  \033[1;36m"
+echo -e "\e[0;31m Suporta HTML\e[0m"
 read -p " :" msgbanner
 [[ "$msgbanner" = "" ]]&& msgbanner="Connected!!"
 echo 
@@ -326,7 +326,7 @@ def main(host=LISTENING_ADDR, port=LISTENING_PORT):
     print "\n ==============================\n"
     print "corriendo ip: " + LISTENING_ADDR
     print "corriendo port: " + str(LISTENING_PORT) + "\n"
-    print "Se ha Iniciado Por Favor Cierre el Terminal\n"
+    print "senão iniciar, interrompa o terminal\n"
     
     server = Server(LISTENING_ADDR, LISTENING_PORT)
     server.start()
@@ -349,9 +349,9 @@ screen -dmS pythonwe python proxy.py -p 80&
 }
 fun_bar 'inst_py'
 rm -rf proxy.py
-echo -e "                 INSTALACIÓN TERMINADA"
+echo -e "                 INSTALAÇÃO COMPLETA"
 echo
-echo -e "Solucionado el error de conectividad mediante el puerto 443 con SNI"
+echo -e "configurando IP Final"
 echo
 echo -e "\e[0;31m                       by:FR13NDS\e[0m"
 
