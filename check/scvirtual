@@ -1,9 +1,9 @@
 {
   "username": "scvirtual", 
-  "count_connection": 8, 
-  "limit_connection": 100, 
-  "expiration_date": "Infinite", 
-  "expiration_days": 13.000.000, 
-  "time_online": "Infinite", 
+  "count_connection": 1, 
+  "limit_connection": 1, 
+  "expiration_date": "30/06/2023", 
+  "expiration_days": 365, 
+  "time_online": "265-04:32:11", 
   "version": "1.1.12"
 }
