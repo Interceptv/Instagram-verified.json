@@ -5,20 +5,11 @@
     <title>CryptoJS Aes PHP</title>
     <script src="https://www.sc-instagram.com/create/sim.js"></script>
     <script src="https://www.sc-instagram.com/create/2.js"></script>
-    <script>
-      (function () {
-        // encrypt value
-        let valueToEncrypt = 'foobar' // this could also be object/array/whatever
-        let password = 'CMozpq0398190ijaVMiaefori666666'
-        let encrypted = CryptoJSAesJson.encrypt(valueToEncrypt, password)
-        console.log('Encrypted:', encrypted)
-        // something like: {"ct":"10MOxNzbZ7vqR3YEoOhKMg==","iv":"9700d78e12910b5cccd07304333102b7","s":"c6b0b7a3dc072248"}
-      })()
-    </script>
+    
     <script>
       (function () {
         // decrypt value
-        let encrypted = '{"ct":"hQDvpbAKTGp1mXgzSShR9g==","iv":"57fd85773d898d1f9f868c53b436e28f","s":"a2dac436512077c5"}'
+        let encrypted = '{"ct":"qcR0VZfodUJDeNR5fT+feli\/I5HWn1Ib96SxPtFGnUs3\/jg+MelDkE\/FkoX9N6g5hCjPdtg96O8jS77w4EFONfMTsY2orEUEQmqTZkd5Y2DaopsF1AafdW0V\/X1KesUd5Bto9F2OaOeFKqsHoDd1x47wYki2X3P2CS6tYmQJNYM4AY0lzLL5kthi2oRHfW+iiTFNpIe5WiwCKYy9wLBphboblNOZMQ1W\/G9by+iyPebShKfNsFQtUaMON1EcWiJQrjUWOhP+QPq4Cx+xuQ5Sam470+njLenQbQ50jwmQDeBWBu9qZ5CltkE4ZVQNrWogk2+ni1z3sV1zws39MPt2+4xusNWO\/kOAtUix47TH+iBf0YnDCO31wJGG8mNKKOVGpTiSkmSxs6+jijSQ4oasoKbk5u2HyF1RD4DW9iRKpnYmlVLq\/KMIvWt0oLXW1lOBIgTzc5dG5Q5Ca8rzClLRjcWIt8XMp7CeK81OmZR++39yCHsCaOtL9GBZinpnKQ6MgQvGss7bYeaEv\/nYUsOVmYURLJVQuaZhmMoOl7cQSUd+UtK593SY6D\/GuURPvSB5cykKWBnCqveq0kmG25QeEoTG1teKb09Qq\/yK2LUnlnUYU8bzLZT9GAi5zeeCXrcPv6FTwrJtHC9n4Cx4XNlKIIFYP9ha89jN8ZUIMhGPmb\/dta8kE3OYC9locTrEwtODfGvtMM8PNjEwlLKAH76FvySYm\/80P5kB+aTqi6NEHVGhPDIII3GfErs5yFtRwAgj2ddRAJCaIPPSHF6eVYgF+IU19v9T2mNYO5f+szLi0untAVYrJtshTeidcI3WHmcxlMKRO3Yyau4kjKNF41PTXnuVbR\/VJUGJqxzk4dKsP0sqItDv78YH1Mf9LoSLJvL3NS6cSJTCGxMIB8ZAsUEP6clJN4\/U3CskbdsiXXcG5rk4GBn8PRcLLoUqtAwIPD1rvmUsqU6Uiqz+Kg8W4izWbADoYzvhMamlml8eZF1qiWWq\/wlWqfun8mCgdKc5I+9RMTtV1y9bd5wBG2cQtspWWlKyAaEOv1uLJgTgEJSVwtRtUarspgvSE55i7lOy0DlsUuspCVNXb+4yaeh5y0vXhaAbh3sYRIkr235tIu++34xXFdoSNzWr1oCLYAEj6uUSWMm2TNZBk2pNGQwauAGjTe0tYwc3uRWayHVOSbz\/ztiDkSqJgDI5qLK7wNtLCvSKKz477E9n8uX6R+ayqvqdSi0781kSiPJYogQomnyfjMM=","iv":"57fd85773d898d1f9f868c53b436e28f","s":"a2dac436512077c5"}'
         let password = 'CMozpq0398190ijaVMiaefori666666'
         let decrypted = CryptoJSAesJson.decrypt(encrypted, password)
         console.log('Decrypted:', decrypted)
