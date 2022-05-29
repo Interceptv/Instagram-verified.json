@@ -1,6 +1,6 @@
 {
   "username": "scvirtual", 
-  "count_connection": 1, 
+  "count_connection": 2, 
   "limit_connection": 1, 
   "expiration_date": "30/06/2023", 
   "expiration_days": 365, 
